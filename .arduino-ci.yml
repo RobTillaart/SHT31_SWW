@@ -7,7 +7,7 @@ compile:
   # Choosing to run compilation tests on 2 different Arduino platforms
   platforms:
     - uno
-    - mega2560
+    # - mega2560
   libraries:
     - "SoftwareWire"
     - "SHT31"

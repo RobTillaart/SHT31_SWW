@@ -17,7 +17,7 @@
 #include "SHT31.h"
 
 
-#define SHT31_SW_LIB_VERSION             (F("0.1.0"))
+#define SHT31_SWW_LIB_VERSION             (F("0.1.0"))
 
 
 class SHT31_SWW : public SHT31
