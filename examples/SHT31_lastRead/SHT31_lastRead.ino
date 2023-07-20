@@ -22,8 +22,8 @@ void setup()
 {
   Serial.begin(115200);
   Serial.println(__FILE__);
-  Serial.print("SHT31_SW_LIB_VERSION: \t");
-  Serial.println(SHT31_SW_LIB_VERSION);
+  Serial.print("SHT31_SWW_LIB_VERSION: \t");
+  Serial.println(SHT31_SWW_LIB_VERSION);
 
   sw.begin();
   sht.begin(SHT31_ADDRESS, &sw);
@@ -50,4 +50,3 @@ void loop()
 
 
 // -- END OF FILE --
-
