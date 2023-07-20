@@ -1,5 +1,5 @@
 //
-//    FILE: SHT31_SWWW.cpp
+//    FILE: SHT31_SWW.cpp
 //  AUTHOR: Rob Tillaart
 // VERSION: 0.1.0
 //    DATE: 2019-02-08 (base SHT31 lib)
@@ -11,7 +11,7 @@
 //     URL: https://github.com/RobTillaart/SHT31
 
 
-#include "SHT31_SWWW.h"
+#include "SHT31_SWW.h"
 
 
 //  SUPPORTED COMMANDS - single shot mode only
